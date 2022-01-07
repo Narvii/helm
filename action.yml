@@ -47,4 +47,4 @@ inputs:
     required: false
 runs:
   using: docker
-  image: Dockerfile
+  image: docker://kenshin54/helm-action:latest
